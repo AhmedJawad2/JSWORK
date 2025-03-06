@@ -15,3 +15,8 @@ let obj = {
 let outPut = `the cost of ${obj.item} is ${obj.price} ruppes`;
 console.log(outPut);
 console.log("The Cost Of",obj.item,"is",obj.price)
+
+
+
+
+
